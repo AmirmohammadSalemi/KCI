@@ -1,0 +1,9 @@
+com\kci\jwt\service\RoleService.class
+com\kci\jwt\controller\UserController.class
+com\kci\jwt\entity\User.class
+com\kci\jwt\dao\UserDao.class
+com\kci\jwt\dao\RoleDao.class
+com\kci\jwt\KciApplication.class
+com\kci\jwt\controller\RoleController.class
+com\kci\jwt\entity\Role.class
+com\kci\jwt\service\UserService.class
